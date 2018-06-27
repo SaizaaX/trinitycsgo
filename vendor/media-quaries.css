@@ -77,15 +77,20 @@
 
 @media (max-width: 991px) { 
 	.download-package-one {
+	width: 250px;
 	float: inherit;
 	margin-right: 0px;
 	}
 	.download-package-two {
+	width: 250px;
 	float: inherit;
 	margin-left: 0px;
 	}
 	.ct-two-container {
 	display: none;
+	}
+	.stats-container {
+		margin-top: 300px;
 	}
 }
 
