@@ -1,0 +1,4 @@
+function loader() {
+	RandomValue();
+	Preloader();
+}
